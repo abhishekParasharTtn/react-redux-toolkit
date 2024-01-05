@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+ }
+
+.product-title { 
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
